@@ -489,3 +489,4 @@ pub fn triplet(mode: u16, read: u16, write: u16, execute: u16) -> String {
   }
   .to_string()
 }
+
